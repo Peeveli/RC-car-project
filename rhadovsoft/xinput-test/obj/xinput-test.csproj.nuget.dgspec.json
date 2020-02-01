@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hanne\\Desktop\\kodailuja\\ttzc0200\\Code\\project\\rc-controller-sockets\\rhadovsoft\\xinput-test\\xinput-test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hanne\\Desktop\\kodailuja\\ttzc0200\\Code\\project\\rc-controller-sockets\\rhadovsoft\\xinput-test\\xinput-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hanne\\Desktop\\kodailuja\\ttzc0200\\Code\\project\\rc-controller-sockets\\rhadovsoft\\xinput-test\\xinput-test.csproj",
+        "projectName": "xinput-test",
+        "projectPath": "C:\\Users\\hanne\\Desktop\\kodailuja\\ttzc0200\\Code\\project\\rc-controller-sockets\\rhadovsoft\\xinput-test\\xinput-test.csproj",
+        "packagesPath": "C:\\Users\\hanne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hanne\\Desktop\\kodailuja\\ttzc0200\\Code\\project\\rc-controller-sockets\\rhadovsoft\\xinput-test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hanne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "SharpDX.XInput": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

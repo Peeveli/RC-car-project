@@ -1,0 +1,11 @@
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\bin\Release\netcoreapp2.1\xinput-test.deps.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\bin\Release\netcoreapp2.1\xinput-test.runtimeconfig.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\bin\Release\netcoreapp2.1\xinput-test.runtimeconfig.dev.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\bin\Release\netcoreapp2.1\xinput-test.dll
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\bin\Release\netcoreapp2.1\xinput-test.pdb
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\obj\Release\netcoreapp2.1\xinput-test.csprojAssemblyReference.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\obj\Release\netcoreapp2.1\xinput-test.csproj.CoreCompileInputs.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\obj\Release\netcoreapp2.1\xinput-test.AssemblyInfoInputs.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\obj\Release\netcoreapp2.1\xinput-test.AssemblyInfo.cs
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\obj\Release\netcoreapp2.1\xinput-test.dll
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\xinput-test\obj\Release\netcoreapp2.1\xinput-test.pdb

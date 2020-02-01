@@ -1,0 +1,11 @@
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\bin\Release\netcoreapp2.1\client.cs.deps.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\bin\Release\netcoreapp2.1\client.cs.runtimeconfig.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\bin\Release\netcoreapp2.1\client.cs.runtimeconfig.dev.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\bin\Release\netcoreapp2.1\client.cs.dll
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\bin\Release\netcoreapp2.1\client.cs.pdb
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\obj\Release\netcoreapp2.1\client.cs.csprojAssemblyReference.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\obj\Release\netcoreapp2.1\client.cs.csproj.CoreCompileInputs.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\obj\Release\netcoreapp2.1\client.cs.AssemblyInfoInputs.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\obj\Release\netcoreapp2.1\client.cs.AssemblyInfo.cs
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\obj\Release\netcoreapp2.1\client.cs.dll
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\client.cs\obj\Release\netcoreapp2.1\client.cs.pdb

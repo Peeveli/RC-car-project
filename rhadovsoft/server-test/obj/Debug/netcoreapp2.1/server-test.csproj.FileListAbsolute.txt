@@ -1,0 +1,11 @@
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\bin\Debug\netcoreapp2.1\server-test.deps.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\bin\Debug\netcoreapp2.1\server-test.runtimeconfig.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\bin\Debug\netcoreapp2.1\server-test.runtimeconfig.dev.json
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\bin\Debug\netcoreapp2.1\server-test.dll
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\bin\Debug\netcoreapp2.1\server-test.pdb
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\obj\Debug\netcoreapp2.1\server-test.csproj.CoreCompileInputs.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\obj\Debug\netcoreapp2.1\server-test.AssemblyInfoInputs.cache
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\obj\Debug\netcoreapp2.1\server-test.AssemblyInfo.cs
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\obj\Debug\netcoreapp2.1\server-test.dll
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\obj\Debug\netcoreapp2.1\server-test.pdb
+C:\Users\hanne\Desktop\rc-controller-sockets\rhadovsoft\server-test\obj\Debug\netcoreapp2.1\server-test.csprojAssemblyReference.cache
